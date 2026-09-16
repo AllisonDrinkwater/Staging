@@ -1,0 +1,1 @@
+This file contains the design information for SkillageIT's Staging repository, including information about projects, clients, key requirements, phases and deliverables. 
